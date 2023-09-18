@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"albums": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "The Bones of What You Believe",
+			"Artist": "CHVRCHES",
+			"Publisher": "Virgin - Goodbye",
+			"Year": "2013"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "The Electric Lady",
+			"Artist": "Janelle Monáe",
+			"Publisher": "Wondaland Arts Society - Bad Boy - Atlantic",
+			"Year": "2013"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Channel Orange",
+			"Artist": "Frank Ocean",
+			"Publisher": "Def Jam",
+			"Year": "2012"
 		}
 	]
 }
